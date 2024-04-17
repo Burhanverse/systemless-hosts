@@ -7,12 +7,6 @@
 - Support Magisk & KernelSU
 
 ---
-## Change Log:
-- 18.0-AQ  
-  - code: 180   
-  - script now downloads latest unified-hosts while flashing the module
-
----
 ## Credits:
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
 - [@StevenBlack](https://github.com/StevenBlack) / Base hosts sources
