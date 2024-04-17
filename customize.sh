@@ -14,8 +14,14 @@ else
  ROOT=""
 fi
 
+# Hosts type
+ui_print "- You are Flashing UHFGS variant"
+sleep 0.3
+ui_print "- UHFGS = Unified Host + Fakenews + Gambling + Social"
+sleep 0.3
+
 # Define hosts URL
-HOSTS_URL="https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+HOSTS_URL="https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts"
 GIT_URL="https://github.com/StevenBlack/hosts"
 
 # Downloading hosts

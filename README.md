@@ -3,7 +3,7 @@
 ---
 ## Overview:
 - An efficient ad blocker, with no user interface
-- Automatically downloads the lastest unified-hosts from [@StevenBlack](https://github.com/StevenBlack/hosts) hosts sources
+- Automatically downloads the lastest UHFGS from [@StevenBlack](https://github.com/StevenBlack/hosts) hosts sources
 - Support Magisk & KernelSU
 
 ---
