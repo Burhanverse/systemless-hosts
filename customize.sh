@@ -14,11 +14,12 @@ else
  ROOT=""
 fi
 
-# Define hosts file URL
+# Define hosts URL
 HOSTS_URL="https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+GIT_URL="https://github.com/StevenBlack/hosts"
 
-# Downloading hosts file
-ui_print "- Downloading updated unified-hosts file"
+# Downloading hosts
+ui_print "- Downloading latest hosts file from $GIT_URL"
 curl -o $MODPATH/hosts $HOSTS_URL
 if [ $? -ne 0 ]; then
     ui_print "Error: Failed to download hosts file."

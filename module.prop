@@ -1,6 +1,6 @@
 id=systemless-hosts
 name=Systemless Hosts - Unified
-version=18.0-AQ
-versionCode=180
-author=gloeyisy & burhanverse
-description=An efficient ad blocker, with no user interface & the lastest unified-hosts from @StevenBlack
+version=18.1-AQ
+versionCode=181
+author=gloeyisk & burhanverse
+description=An efficient ad blocker, with no user interface & the lastest unified-hosts from github@StevenBlack
